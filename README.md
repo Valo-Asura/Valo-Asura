@@ -1,60 +1,97 @@
-<h1 align="left">Hi there! 👋, I'm Vimal</h1>
-<h3 align="left">🌍 Full-Stack Developer</h3>
+<!-- Animated Waving Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Vimal%20👨💻&fontSize=50&animation=fadeIn&fontAlignY=35" />
+</div>
+
+<!-- Introduction -->
+<div align="center">
+  
+  ### 🚀 Full-Stack Developer & NixOS Enthusiast
+  
+  Building robust web applications and crafting my perfect desktop experience on **NixOS**. 
+  Currently focusing on professional growth and fitness, with plans to become more active in open-source soon!
+  
+  🇮🇳 From India | 💌 Reach out anytime
+  
+</div>
 
 ---
 
-### 🚀 About Me
-I'm a passionate developer from India 🇮🇳, focused on building websites and developing my rice on NixOS system. I am an open-source enthusiast. Feel free to reach out on Email. Currently, my professional career and Health/Gym are taking priority, limiting the time I can dedicate to developing my rice. While I plan to be more active in the future, please expect lower activity on this profile for the time being.
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
 
----
-
-### 🛠️ My Stack
-
-**Languages**
-<br />
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sql&logoColor=white)
+**Languages & Frameworks**
+<br/>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Languages" />
+</div>
 
 **Databases**
-<br />
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Technologies**
-<br />
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-**IDEs**
-<br />
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
-
-**Operating Systems**
-<br />
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-### 🔥 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vimal&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vimal&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
----
-
-### 📬 Connect with Me  
+<br/>
 <div align="left">
-<a href="https://discord.com/users/vimal" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord"/>
-  </a>
-<a href="mailto:vimal@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" alt="Databases" />
+</div>
+
+**Tools & Platforms**
+<br/>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,flask,django,linux,nixos,postman" alt="Tools" />
+</div>
+
+**Development**
+<br/>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github" alt="Development" />
 </div>
 
 ---
 
-### 🏆 GitHub Trophies  
-<p align="left">  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vimal&theme=dracula" alt="GitHub Trophies"/>
-  </a>  
-</p>
+<!-- Stats Section - FIXED -->
+## 📊 GitHub Analytics
+<div align="center">
+  
+  <!-- FIXED: Using the correct service for stats -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vimal&show_icons=true&count_private=true&theme=onedark&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimal&layout=compact&theme=onedark&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  
+  <!-- FIXED: Using the correct service for streak stats -->
+  <img height="165" src="https://streak-stats.demolab.com?user=vimal&theme=onedark&hide_border=true&background=00000000" alt="GitHub Streak" />
+  
+</div>
+
+<!-- FIXED: Trophies Section -->
+## 🏆 GitHub Trophies
+<div align="center">
+  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vimal&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+  
+</div>
+
+---
+
+<!-- Connect -->
+## 📬 Connect With Me
+<div align="center">
+  
+  <a href="https://discord.com/users/vimal" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40" />
+  </a>
+  <a href="mailto:vimal@example.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
+  </a>
+  <a href="https://github.com/vimal" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
+  </a>
+  
+  <br/>
+  <sub><i>Feel free to reach out for collaborations or just to chat about NixOS!</i></sub>
+  
+</div>
+
+<!-- Footer -->
+<div align="center">
+  
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=vimal&color=blueviolet&style=flat" alt="Profile Views" />
+  
+</div>

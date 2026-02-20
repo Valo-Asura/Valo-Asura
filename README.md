@@ -1,97 +1,60 @@
-<!-- Animated Waving Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Vimal%20👨💻&fontSize=50&animation=fadeIn&fontAlignY=35" />
-</div>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Vimal&fontSize=48&animation=fadeIn&fontAlignY=35" />
+</p>
 
-<!-- Introduction -->
-<div align="center">
-  
-  ### 🚀 Full-Stack Developer & NixOS Enthusiast
-  
-  Building robust web applications and crafting my perfect desktop experience on **NixOS**. 
-  Currently focusing on professional growth and fitness, with plans to become more active in open-source soon!
-  
-  🇮🇳 From India | 💌 Reach out anytime
-  
-</div>
+<h2 align="center">Full-Stack Developer | NixOS Power User</h2>
+
+<p align="center">
+  Designing scalable web systems and optimizing developer environments on NixOS.<br/>
+  Focused on backend architecture, system design, and continuous improvement.
+</p>
 
 ---
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-**Languages & Frameworks**
-<br/>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Languages" />
-</div>
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+</p>
 
-**Databases**
-<br/>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" alt="Databases" />
-</div>
+### Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask" />
+</p>
 
-**Tools & Platforms**
-<br/>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,flask,django,linux,nixos,postman" alt="Tools" />
-</div>
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+</p>
 
-**Development**
-<br/>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github" alt="Development" />
-</div>
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nixos,git,github,postman" />
+</p>
 
 ---
 
-<!-- Stats Section - FIXED -->
-## 📊 GitHub Analytics
-<div align="center">
-  
-  <!-- FIXED: Using the correct service for stats -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vimal&show_icons=true&count_private=true&theme=onedark&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimal&layout=compact&theme=onedark&hide_border=true&bg_color=00000000" alt="Top Languages" />
-  
-  <!-- FIXED: Using the correct service for streak stats -->
-  <img height="165" src="https://streak-stats.demolab.com?user=vimal&theme=onedark&hide_border=true&background=00000000" alt="GitHub Streak" />
-  
-</div>
+## 📊 GitHub Stats
 
-<!-- FIXED: Trophies Section -->
-## 🏆 GitHub Trophies
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vimal&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
-  
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=onedark&hide_border=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=onedark&hide_border=true&bg_color=00000000" />
+</p>
 
 ---
 
-<!-- Connect -->
-## 📬 Connect With Me
-<div align="center">
-  
-  <a href="https://discord.com/users/vimal" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40" />
-  </a>
-  <a href="mailto:vimal@example.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
-  </a>
-  <a href="https://github.com/vimal" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
-  </a>
-  
-  <br/>
-  <sub><i>Feel free to reach out for collaborations or just to chat about NixOS!</i></sub>
-  
-</div>
+## 📬 Connect
 
-<!-- Footer -->
-<div align="center">
-  
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=vimal&color=blueviolet&style=flat" alt="Profile Views" />
-  
-</div>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="https://discord.com/users/YOUR_ID">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  </a>
+</p>

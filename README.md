@@ -16,7 +16,7 @@
 ```
 λ whoami
 > Backend architect. NixOS obsessive. Local AI workflow builder.
-> Ludhiana, India | Python + Django/FastAPI | Niri + Eww + Nushell
+> Rishikesh, India | Python + Django/FastAPI | Niri + Eww + Nushell
 > Building agentic systems that run offline, on-device, without compromise.
 ```
 
@@ -39,13 +39,13 @@
 **Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 **DevOps & Infrastructure**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nixos,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=linux,nixos,git,github,postman" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 {
   hardware = {
     primary   = "Colorful X15 XS — i5-12500H · RTX 3050 4GB · 16GB DDR4";
-    target    = "Mac Mini M5 · 24GB unified memory (evaluating)";
+    target    = "Mac Mini M5/M4 · 24GB unified memory (evaluating)";
   };
 
   system = {

@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Valo-Asura">
     <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=flat-square&color=cba6f7&labelColor=1e1e2e" />
   </a>
   <img src="https://img.shields.io/badge/NixOS-unstable-89b4fa?style=flat-square&logo=nixos&logoColor=white&labelColor=1e1e2e" />

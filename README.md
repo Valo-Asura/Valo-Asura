@@ -108,11 +108,11 @@ Building production-grade agentic workflows that run entirely on local hardware:
 ## 📬 Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Valo-Asura">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
   &nbsp;
-  <a href="mailto:your@email.com">
+  <a href="mailto:vimalranghar016@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
   &nbsp;

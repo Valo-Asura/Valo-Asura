@@ -19,38 +19,38 @@ I build backend systems, APIs, automation tools, RAG apps, and Linux desktop wor
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,bash" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
 ```txt
-Python, JavaScript, HTML, CSS, Java, Bash
+Python, JavaScript, HTML, CSS
 ```
 
 ### Backend & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,flask" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs" />
 </p>
 
 ```txt
 Django, FastAPI, Flask, Node.js, REST APIs, API Integrations
 ```
 
-### Databases
+### Databases & Vector Stores
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
 </p>
 
 ```txt
-MongoDB, MySQL, SQLite, PostgreSQL, SQL, Vector Databases
+MongoDB, Pinecone, SQLite, SQL, Vector Databases
 ```
 
 ### AI / LLM / RAG
 
 ```txt
-LLMs, RAG, LangChain, LangGraph, OpenAI API, Groq API, Ollama, Local LLMs,
-Prompt Engineering, Embeddings, Semantic Search, Pinecone, Chroma, FAISS
+LLMs, RAG, LangChain, OpenAI API, Groq API, Ollama, Local LLMs,
+Prompt Engineering, Embeddings, Semantic Search, Pinecone
 ```
 
 ### DevOps / Linux / Tooling
@@ -60,121 +60,72 @@ Prompt Engineering, Embeddings, Semantic Search, Pinecone, Chroma, FAISS
 </p>
 
 ```txt
-Linux, NixOS, Hyprland, Niri, Quickshell, Eww, Nushell, Zsh,
-Git, GitHub, Docker, Postman, VS Code, VSCodium
+Linux, NixOS, Hyprland, Quickshell, Git, GitHub, Docker, Postman, VS Code, VSCodium
 ```
 
 ---
 
-## Repositories
+## Pinned Repositories
 
-### [`custom_ai_bot`](https://github.com/Valo-Asura/custom_ai_bot)
-
-A simple RAG-enabled personal AI chatbot builder prototype.
-
-Built to test the workflow of creating personal AI bots with custom knowledge context, retrieval-based answering, and LLM integration.
-
-```txt
-Stack:
-Python, Flask, MongoDB, Pinecone, Groq API, Local LLM support
-```
-
-Live demo:
-
-```txt
-https://personal-ai-bot-builder-sigma.vercel.app/
-```
-
----
-
-### [`hyprNixos`](https://github.com/Valo-Asura/hyprNixos)
-
-Personal NixOS configuration focused on reproducible Linux desktop setup.
-
-Includes experiments around Hyprland, Quickshell, shell tooling, app configs, performance tuning, and local AI workflow integration.
-
-```txt
-Stack:
-NixOS, Flakes, Hyprland, Quickshell, Linux desktop tooling
-```
-
----
-
-### [`nixosEnd4`](https://github.com/Valo-Asura/nixosEnd4)
-
-NixOS desktop configuration experiment based around the end-4 style Linux workflow.
-
-Focused on declarative desktop customization, shell/UI configuration, and reusable NixOS setup patterns.
-
-```txt
-Stack:
-NixOS, Flakes, Desktop customization, Shell tooling
-```
-
----
-
-### [`Ambxst-nixos`](https://github.com/Valo-Asura/Ambxst-nixos)
-
-NixOS configuration and desktop environment experiment.
-
-Used for testing system modules, desktop tooling, configuration structure, and NixOS workflow improvements.
-
-```txt
-Stack:
-NixOS, Flakes, Linux, System configuration
-```
-
----
-
-### [`nixos-laptop`](https://github.com/Valo-Asura/nixos-laptop)
-
-Laptop-focused NixOS configuration.
-
-Contains system setup and configuration experiments for running NixOS on personal laptop hardware.
-
-```txt
-Stack:
-NixOS, Linux, Laptop configuration, Flakes
-```
-
----
-
-### [`Ax-Shell`](https://github.com/Valo-Asura/Ax-Shell)
-
-Shell/UI-related desktop configuration repository.
-
-Focused on Linux desktop shell customization and interface experiments.
-
-```txt
-Stack:
-Linux desktop, Shell customization, UI workflow
-```
-
----
-
-### [`lms_django`](https://github.com/Valo-Asura/lms_django)
-
-Django-based LMS project.
-
-Backend-focused web application work using Django and database-backed application structure.
-
-```txt
-Stack:
-Python, Django, Backend development, Web application
-```
-
----
-
-### [`Valo-Asura`](https://github.com/Valo-Asura/Valo-Asura)
-
-GitHub profile README repository.
-
-Used for maintaining this profile page and public developer identity.
-
-```txt
-Stack:
-Markdown, GitHub Profile README
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Valo-Asura/custom_ai_bot">custom_ai_bot</a></h3>
+      <p>A simple RAG-enabled personal AI chatbot builder prototype.</p>
+      <p>Built to test custom knowledge context, retrieval-based answers, Groq API integration, Pinecone vector search, and local LLM support.</p>
+      <p><b>Stack:</b> Python, Flask, MongoDB, Pinecone, Groq API, Local LLM</p>
+      <p><a href="https://personal-ai-bot-builder-sigma.vercel.app/">Live Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Valo-Asura/hyprNixos">hyprNixos</a></h3>
+      <p>Personal NixOS configuration focused on reproducible Linux desktop setup.</p>
+      <p>Includes Hyprland, Quickshell, shell tooling, app configs, performance tuning, and local AI workflow experiments.</p>
+      <p><b>Stack:</b> NixOS, Flakes, Hyprland, Quickshell, Linux</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Valo-Asura/nixosEnd4">nixosEnd4</a></h3>
+      <p>NixOS desktop configuration experiment based around the end-4 style Linux workflow.</p>
+      <p>Focused on declarative desktop customization, shell/UI configuration, and reusable NixOS setup patterns.</p>
+      <p><b>Stack:</b> NixOS, Flakes, Desktop Customization, Shell</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Valo-Asura/Ambxst-nixos">Ambxst-nixos</a></h3>
+      <p>NixOS configuration and desktop environment experiment.</p>
+      <p>Used for testing system modules, desktop tooling, configuration structure, and NixOS workflow improvements.</p>
+      <p><b>Stack:</b> NixOS, Flakes, Linux, System Configuration</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Valo-Asura/nixos-laptop">nixos-laptop</a></h3>
+      <p>Laptop-focused NixOS configuration.</p>
+      <p>Contains system setup and configuration experiments for running NixOS on personal laptop hardware.</p>
+      <p><b>Stack:</b> NixOS, Linux, Laptop Configuration, Flakes</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Valo-Asura/Ax-Shell">Ax-Shell</a></h3>
+      <p>Shell/UI-related desktop configuration repository.</p>
+      <p>Focused on Linux desktop shell customization and interface workflow experiments.</p>
+      <p><b>Stack:</b> Linux Desktop, Shell Customization, UI Workflow</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Valo-Asura/lms_django">lms_django</a></h3>
+      <p>Django-based LMS project.</p>
+      <p>Backend-focused web application work using Django and database-backed application structure.</p>
+      <p><b>Stack:</b> Python, Django, Backend Development, Web App</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Valo-Asura/Valo-Asura">Valo-Asura</a></h3>
+      <p>GitHub profile README repository.</p>
+      <p>Used for maintaining this profile page and public developer identity.</p>
+      <p><b>Stack:</b> Markdown, GitHub Profile README</p>
+    </td>
+  </tr>
+</table>
 
 ---
 

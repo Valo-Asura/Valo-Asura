@@ -65,35 +65,6 @@ Linux, NixOS, Hyprland, Quickshell, Git, GitHub, Docker, Postman, VS Code, VSCod
 
 ---
 
-## Pinned
-
-- [`custom_ai_bot`](https://github.com/Valo-Asura/custom_ai_bot)  
-  RAG-enabled personal AI chatbot builder with authentication, custom knowledge context, retrieval-based answers, Groq API integration, Pinecone vector search, MongoDB storage, and local LLM support.  
-  **Stack:** Python, Flask, MongoDB, Pinecone, Groq API, Local LLM  
-  **Demo:** https://personal-ai-bot-builder-sigma.vercel.app/
-
-- [`hyprNixos`](https://github.com/Valo-Asura/hyprNixos)  
-  Personal NixOS configuration focused on reproducible Linux desktop setup, Hyprland, Quickshell, shell tooling, app configs, performance tuning, and local AI workflow experiments.  
-  **Stack:** NixOS, Flakes, Hyprland, Quickshell, Linux
-
-- [`nixosEnd4`](https://github.com/Valo-Asura/nixosEnd4)  
-  NixOS desktop configuration experiment based around the end-4 style Linux workflow. Focused on declarative desktop customization, shell/UI configuration, and reusable NixOS setup patterns.  
-  **Stack:** NixOS, Flakes, Desktop Customization, Shell
-
-- [`Ambxst-nixos`](https://github.com/Valo-Asura/Ambxst-nixos)  
-  NixOS configuration and desktop environment experiment for testing system modules, desktop tooling, configuration structure, and NixOS workflow improvements.  
-  **Stack:** NixOS, Flakes, Linux, System Configuration
-
-- [`nixos-laptop`](https://github.com/Valo-Asura/nixos-laptop)  
-  Laptop-focused NixOS configuration for personal hardware setup and reproducible system configuration.  
-  **Stack:** NixOS, Linux, Laptop Configuration, Flakes
-
-- [`lms_django`](https://github.com/Valo-Asura/lms_django)  
-  Django-based LMS backend project with database-backed application structure.  
-  **Stack:** Python, Django, Backend Development, Web App
-
----
-
 ## Current Focus
 
 ```txt

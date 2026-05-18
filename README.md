@@ -65,67 +65,51 @@ Linux, NixOS, Hyprland, Quickshell, Git, GitHub, Docker, Postman, VS Code, VSCod
 
 ---
 
-## Pinned Repositories
+## Selected Repositories
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Valo-Asura/custom_ai_bot">custom_ai_bot</a></h3>
-      <p>A simple RAG-enabled personal AI chatbot builder prototype.</p>
-      <p>Built to test custom knowledge context, retrieval-based answers, Groq API integration, Pinecone vector search, and local LLM support.</p>
-      <p><b>Stack:</b> Python, Flask, MongoDB, Pinecone, Groq API, Local LLM</p>
-      <p><a href="https://personal-ai-bot-builder-sigma.vercel.app/">Live Demo</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Valo-Asura/hyprNixos">hyprNixos</a></h3>
-      <p>Personal NixOS configuration focused on reproducible Linux desktop setup.</p>
-      <p>Includes Hyprland, Quickshell, shell tooling, app configs, performance tuning, and local AI workflow experiments.</p>
-      <p><b>Stack:</b> NixOS, Flakes, Hyprland, Quickshell, Linux</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Valo-Asura/nixosEnd4">nixosEnd4</a></h3>
-      <p>NixOS desktop configuration experiment based around the end-4 style Linux workflow.</p>
-      <p>Focused on declarative desktop customization, shell/UI configuration, and reusable NixOS setup patterns.</p>
-      <p><b>Stack:</b> NixOS, Flakes, Desktop Customization, Shell</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Valo-Asura/Ambxst-nixos">Ambxst-nixos</a></h3>
-      <p>NixOS configuration and desktop environment experiment.</p>
-      <p>Used for testing system modules, desktop tooling, configuration structure, and NixOS workflow improvements.</p>
-      <p><b>Stack:</b> NixOS, Flakes, Linux, System Configuration</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Valo-Asura/nixos-laptop">nixos-laptop</a></h3>
-      <p>Laptop-focused NixOS configuration.</p>
-      <p>Contains system setup and configuration experiments for running NixOS on personal laptop hardware.</p>
-      <p><b>Stack:</b> NixOS, Linux, Laptop Configuration, Flakes</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Valo-Asura/Ax-Shell">Ax-Shell</a></h3>
-      <p>Shell/UI-related desktop configuration repository.</p>
-      <p>Focused on Linux desktop shell customization and interface workflow experiments.</p>
-      <p><b>Stack:</b> Linux Desktop, Shell Customization, UI Workflow</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Valo-Asura/lms_django">lms_django</a></h3>
-      <p>Django-based LMS project.</p>
-      <p>Backend-focused web application work using Django and database-backed application structure.</p>
-      <p><b>Stack:</b> Python, Django, Backend Development, Web App</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Valo-Asura/Valo-Asura">Valo-Asura</a></h3>
-      <p>GitHub profile README repository.</p>
-      <p>Used for maintaining this profile page and public developer identity.</p>
-      <p><b>Stack:</b> Markdown, GitHub Profile README</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Valo-Asura/custom_ai_bot">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Valo-Asura&repo=custom_ai_bot&theme=github_dark&hide_border=false" />
+  </a>
+  <a href="https://github.com/Valo-Asura/hyprNixos">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Valo-Asura&repo=hyprNixos&theme=github_dark&hide_border=false" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Valo-Asura/nixosEnd4">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Valo-Asura&repo=nixosEnd4&theme=github_dark&hide_border=false" />
+  </a>
+  <a href="https://github.com/Valo-Asura/Ambxst-nixos">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Valo-Asura&repo=Ambxst-nixos&theme=github_dark&hide_border=false" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Valo-Asura/nixos-laptop">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Valo-Asura&repo=nixos-laptop&theme=github_dark&hide_border=false" />
+  </a>
+  <a href="https://github.com/Valo-Asura/lms_django">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Valo-Asura&repo=lms_django&theme=github_dark&hide_border=false" />
+  </a>
+</p>
+
+### Project Notes
+
+```txt
+custom_ai_bot  -> RAG chatbot builder using Python, Flask, MongoDB, Pinecone, Groq API, local LLM support
+hyprNixos      -> Personal NixOS + Hyprland + Quickshell configuration
+nixosEnd4      -> NixOS desktop customization experiment
+Ambxst-nixos   -> NixOS system module and desktop workflow testing
+nixos-laptop   -> Laptop-focused NixOS configuration
+lms_django     -> Django-based LMS backend project
+```
+
+Live demo:
+
+```txt
+https://personal-ai-bot-builder-sigma.vercel.app/
+```
 
 ---
 
